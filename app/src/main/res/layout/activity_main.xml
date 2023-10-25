@@ -35,4 +35,5 @@
         android:inputType="textPersonName"
         android:textSize="34sp" />
 
+
 </LinearLayout>
